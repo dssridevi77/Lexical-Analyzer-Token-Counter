@@ -1,0 +1,9 @@
+========== TOKEN COUNT ==========
+
+Keywords                 : 6
+Identifiers              : 13
+Operators                : 7
+Constants/Literals       : 6
+Separators/Delimiters    : 19
+Special Symbols          : 2
+Comments                 : 1
